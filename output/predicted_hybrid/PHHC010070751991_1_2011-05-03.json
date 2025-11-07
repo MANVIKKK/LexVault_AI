@@ -1,0 +1,35 @@
+{
+  "case_id": "PHHC010070751991_1_2011-05-03",
+  "court": "C.W.P.No.12508 of 1991 IN THE HIGH COURT OF PUNJAB AND HARYANA AT CHANDIGARH. C.W.P.No.12508 of 1991",
+  "date": "2011-05-03",
+  "judges": [
+    "HON'BLE MR.JUSTICE K. KANNAN **** Present : Mr. Sarjit Singh",
+    "Sr. Advocate with Mr. Vikas Singh",
+    "Advocate for the petitioners. Mr.K.S. Sivia"
+  ],
+  "petitioners": [
+    "Unknown"
+  ],
+  "respondents": [
+    ".... CORAM : HON'BLE MR.JUSTICE K. KANNAN **** Present : Mr. Sarjit Singh",
+    "Sr. Advocate with Mr. Vikas Singh",
+    "Advocate for the petitioners. Mr.K.S. Sivia",
+    "DAG",
+    "Punjab",
+    "for the State of Punjab. ....",
+    "K. KANNAN J (Oral) CWP Nos.12508 of 1990 addresses the issue of defence entered by private individuals against the panchayat contending that the civil court had earlier upheld the claim for declaration",
+    "granted decree of injunction. In CWP No.12508 of 1990",
+    "the Collector had upheld objections",
+    "dismissed the petition but appellate authority rejected the contention",
+    "directed eviction without expressly stating as to how the panchayat could ignore the civil court's decree",
+    "seek their eviction. The"
+  ],
+  "acts": [
+    "Unknown"
+  ],
+  "judgment_text": "C.W.P.No.12508 of 1991 IN THE HIGH COURT OF PUNJAB AND HARYANA AT CHANDIGARH. C.W.P.No.12508 of 1991\n\nDate of Decision: 03.5.2011 Angrez Kaur and another .....Petitioners Vs. Additional Director Panchayats, Punjab and another ....Respondents .... CORAM : HON'BLE MR.JUSTICE K. KANNAN **** Present : Mr. Sarjit Singh, Sr. Advocate with Mr. Vikas Singh, Advocate for the petitioners. Mr.K.S. Sivia, DAG, Punjab, for the State of Punjab. ....\n\nK. KANNAN J (Oral) CWP Nos.12508 of 1990 addresses the issue of defence entered by private individuals against the panchayat contending that the civil court had earlier upheld the claim for declaration and granted decree of injunction. In CWP No.12508 of 1990, the Collector had upheld objections and dismissed the petition but appellate authority rejected the contention and directed eviction without expressly stating as to how the panchayat could ignore the civil court's decree and seek their eviction. The order is untenable and is required to be quashed. The writ petition is allowed. .5.2011 ( K. KANNAN ) GS JUDGE",
+  "outcome": "allowed",
+  "confidence": 0.854,
+  "source": "rule-based",
+  "reasoning": "Rule matches: {'allowed': ['allowed', 'allow', 'petition is allowed', 'quash', 'petition is allowed', 'quashed'], 'quashed': ['quashed']}; selected 'allowed' with score 6.60."
+}

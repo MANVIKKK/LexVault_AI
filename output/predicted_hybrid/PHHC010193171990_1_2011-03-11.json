@@ -1,0 +1,22 @@
+{
+  "case_id": "PHHC010193171990_1_2011-03-11",
+  "court": "Delhi High Court",
+  "date": "2011-03-11",
+  "judges": [
+    "Unknown"
+  ],
+  "petitioners": [
+    "Unknown"
+  ],
+  "respondents": [
+    "Present: None for the parties. It is stated in para 7 of the writ petition that the petitioners joined service in the year 1976. The challenge in the writ petition is against their termination"
+  ],
+  "acts": [
+    "Unknown"
+  ],
+  "judgment_text": "C.W.P.No. 16374 of 1990 Mr. P.S.Saini and another ......Petitioners\n\nVersus Indian Red Cross Society & Others .........Respondents Present: None for the parties. It is stated in para 7 of the writ petition that the petitioners joined service in the year 1976. The challenge in the writ petition is against their termination orders dated 8.10.1990. If the petitioners had joined service in the year 1976, as stated in the writ petition, by this time they must have crossed the age of superannuation. The writ petition, therefore, will not disclose any live issue. It is, accordingly, closed. In the event the petitioners have any grievance with regard to arrears of wages etc. it will be open to them to have the same adjucated by a proper forum. The writ petition is disposed of in the above terms. (RANJAN GOGOI) CHIEF JUSTICE (AUGUSTINE GEORGE MASIH) JUDGE March 11, 2011 RSK",
+  "outcome": "dismissed",
+  "confidence": 0.999,
+  "source": "rule-based",
+  "reasoning": "Rule matches: {'dismissed': ['disposed of', 'disposed of', 'disposed of']}; selected 'dismissed' with score 3.75."
+}

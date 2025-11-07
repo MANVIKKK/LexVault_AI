@@ -1,0 +1,23 @@
+{
+  "case_id": "PHHC010127331998_1_2008-01-30",
+  "court": "Criminal Revision No. 781 of 1998 In the High Court of Punjab and Haryana, Chandigarh.",
+  "date": "2008-01-30",
+  "judges": [
+    "HON BLE MR. JUSTICE KANWALJIT SINGH"
+  ],
+  "petitioners": [
+    "Versus State of U.T.",
+    "Chandiarh."
+  ],
+  "respondents": [
+    ". Criminal Revision No. 782 of 1998 Gurmeet"
+  ],
+  "acts": [
+    "IPC"
+  ],
+  "judgment_text": "Criminal Revision No. 781 of 1998 In the High Court of Punjab and Haryana, Chandigarh.\n\n. Criminal Revision No. 781 of 1998 Date of Decision: 30.01.2008. Pawan Kumar\n\nPetitioner Versus State of U.T., Chandiarh.\n\nRespondent . Criminal Revision No. 782 of 1998 Gurmeet\n\nPetitioners Versus State of U.T., Chandigarh\n\nRespondent AND . Criminal Revision No. 780 of 1998 Bhola Parsad\n\nPetitioners Versus State of U.T., Chandigarh\n\nRespondent CORAM: HON BLE MR. JUSTICE KANWALJIT SINGH\n\nAHLUWALIA Present: Ms. Jyoti Chaudhary, Advocate for the petitioner. Mr. Hemant Bassi, Advocate,\n\nStanding counsel for U.T. Chandigarh. Criminal Revision No. 781 of 1998 Kanwaljit Singh Ahluwalia, J. (Oral) By this order, three criminal revision petition Nos. 781, 782 and 780 of 1998 are disposed of together as the same arise from case FIR No. 198 dated 26.9.1994 registered at Police Station Sector 39, Chandigarh, under Sections 420, 468, 471 & 511 IPC.\n\nMs. Jyoti Chaudhary, Advocate, appearing for the petitioner states that the Court of learned Judicial Mgistrate Ist Class, Chandigarh, has acquitted co-accused of the petitioner. Mr. Hemant Bassi, Advocate, appearing for U.T. Chandigarh is unable to repel this contention.\n\nThere is no doubt in case the Court, who has acquitted co- accused of the petitioner, the same benefit, if made out, shall automatically be granted in favour of the petitioner. The petitioner is stated to be in bail. In case petitioner will cause appearance before the trial Court on 14.2.2008, the trial Court shall conclude the trial within three months from today. Since in the present case, occurrence pertains to 1993 and co-accused have been acquitted, this Court is making the trial time bound. With these observations, the present revision petition stands disposed of.\n\nThe parties agree that this order can be read in the connected revision petitions. (Kanwaljit Singh Ahluwalia)\n\nJudge January 30, 2008\n\nDK",
+  "outcome": "dismissed",
+  "confidence": 0.999,
+  "source": "rule-based",
+  "reasoning": "Rule matches: {'dismissed': ['disposed of', 'disposed of', 'disposed of']}; selected 'dismissed' with score 3.47."
+}

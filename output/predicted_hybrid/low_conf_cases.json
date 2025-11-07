@@ -1,0 +1,1192 @@
+[
+  {
+    "case_id": "HCBM010000041971_1_2005-06-17",
+    "file": "C:\\Users\\ramma\\LV\\output\\extracted_v4_1\\HCBM010000041971_1_2005-06-17.json",
+    "outcome": "undetermined",
+    "confidence": 0.0,
+    "source": "hybrid"
+  },
+  {
+    "case_id": "HCBM010001291978_1_2012-10-30",
+    "file": "C:\\Users\\ramma\\LV\\output\\extracted_v4_1\\HCBM010001291978_1_2012-10-30.json",
+    "outcome": "undetermined",
+    "confidence": 0.0,
+    "source": "hybrid"
+  },
+  {
+    "case_id": "HCBM010001351979_1_2010-03-05",
+    "file": "C:\\Users\\ramma\\LV\\output\\extracted_v4_1\\HCBM010001351979_1_2010-03-05.json",
+    "outcome": "undetermined",
+    "confidence": 0.0,
+    "source": "hybrid"
+  },
+  {
+    "case_id": "HCBM010002641980_1_2012-02-06",
+    "file": "C:\\Users\\ramma\\LV\\output\\extracted_v4_1\\HCBM010002641980_1_2012-02-06.json",
+    "outcome": "undetermined",
+    "confidence": 0.0,
+    "source": "hybrid"
+  },
+  {
+    "case_id": "HCBM010006521988_1_2009-07-18",
+    "file": "C:\\Users\\ramma\\LV\\output\\extracted_v4_1\\HCBM010006521988_1_2009-07-18.json",
+    "outcome": "undetermined",
+    "confidence": 0.0,
+    "source": "hybrid"
+  },
+  {
+    "case_id": "HCBM010040901991_1_2013-06-18",
+    "file": "C:\\Users\\ramma\\LV\\output\\extracted_v4_1\\HCBM010040901991_1_2013-06-18.json",
+    "outcome": "undetermined",
+    "confidence": 0.0,
+    "source": "hybrid"
+  },
+  {
+    "case_id": "HCBM010048961990_1_2004-08-11",
+    "file": "C:\\Users\\ramma\\LV\\output\\extracted_v4_1\\HCBM010048961990_1_2004-08-11.json",
+    "outcome": "undetermined",
+    "confidence": 0.0,
+    "source": "hybrid"
+  },
+  {
+    "case_id": "HCBM010054421991_1_2008-09-10",
+    "file": "C:\\Users\\ramma\\LV\\output\\extracted_v4_1\\HCBM010054421991_1_2008-09-10.json",
+    "outcome": "undetermined",
+    "confidence": 0.0,
+    "source": "hybrid"
+  },
+  {
+    "case_id": "HCBM010065651992_1_2008-09-10",
+    "file": "C:\\Users\\ramma\\LV\\output\\extracted_v4_1\\HCBM010065651992_1_2008-09-10.json",
+    "outcome": "undetermined",
+    "confidence": 0.0,
+    "source": "hybrid"
+  },
+  {
+    "case_id": "HCBM010067141992_1_2008-09-10",
+    "file": "C:\\Users\\ramma\\LV\\output\\extracted_v4_1\\HCBM010067141992_1_2008-09-10.json",
+    "outcome": "undetermined",
+    "confidence": 0.0,
+    "source": "hybrid"
+  },
+  {
+    "case_id": "HCBM020000011949_1_2006-12-22",
+    "file": "C:\\Users\\ramma\\LV\\output\\extracted_v4_1\\HCBM020000011949_1_2006-12-22.json",
+    "outcome": "undetermined",
+    "confidence": 0.0,
+    "source": "hybrid"
+  },
+  {
+    "case_id": "HCBM020000011950_1_2006-01-13",
+    "file": "C:\\Users\\ramma\\LV\\output\\extracted_v4_1\\HCBM020000011950_1_2006-01-13.json",
+    "outcome": "undetermined",
+    "confidence": 0.0,
+    "source": "hybrid"
+  },
+  {
+    "case_id": "HCBM020000031956_1_2006-12-05",
+    "file": "C:\\Users\\ramma\\LV\\output\\extracted_v4_1\\HCBM020000031956_1_2006-12-05.json",
+    "outcome": "undetermined",
+    "confidence": 0.0,
+    "source": "hybrid"
+  },
+  {
+    "case_id": "HCBM020000041964_1_2006-12-05",
+    "file": "C:\\Users\\ramma\\LV\\output\\extracted_v4_1\\HCBM020000041964_1_2006-12-05.json",
+    "outcome": "undetermined",
+    "confidence": 0.0,
+    "source": "hybrid"
+  },
+  {
+    "case_id": "HCBM020000041971_1_2005-12-15",
+    "file": "C:\\Users\\ramma\\LV\\output\\extracted_v4_1\\HCBM020000041971_1_2005-12-15.json",
+    "outcome": "undetermined",
+    "confidence": 0.0,
+    "source": "hybrid"
+  },
+  {
+    "case_id": "HCBM020000051950_1_2006-12-05",
+    "file": "C:\\Users\\ramma\\LV\\output\\extracted_v4_1\\HCBM020000051950_1_2006-12-05.json",
+    "outcome": "undetermined",
+    "confidence": 0.0,
+    "source": "hybrid"
+  },
+  {
+    "case_id": "HCBM020000061954_1_2006-12-19",
+    "file": "C:\\Users\\ramma\\LV\\output\\extracted_v4_1\\HCBM020000061954_1_2006-12-19.json",
+    "outcome": "undetermined",
+    "confidence": 0.0,
+    "source": "hybrid"
+  },
+  {
+    "case_id": "HCBM020000061955_1_2006-12-22",
+    "file": "C:\\Users\\ramma\\LV\\output\\extracted_v4_1\\HCBM020000061955_1_2006-12-22.json",
+    "outcome": "undetermined",
+    "confidence": 0.0,
+    "source": "hybrid"
+  },
+  {
+    "case_id": "HCBM020000061961_1_2006-12-22",
+    "file": "C:\\Users\\ramma\\LV\\output\\extracted_v4_1\\HCBM020000061961_1_2006-12-22.json",
+    "outcome": "undetermined",
+    "confidence": 0.0,
+    "source": "hybrid"
+  },
+  {
+    "case_id": "HCBM020000071963_1_2006-12-05",
+    "file": "C:\\Users\\ramma\\LV\\output\\extracted_v4_1\\HCBM020000071963_1_2006-12-05.json",
+    "outcome": "undetermined",
+    "confidence": 0.0,
+    "source": "hybrid"
+  },
+  {
+    "case_id": "HCBM020000081971_1_2009-07-01",
+    "file": "C:\\Users\\ramma\\LV\\output\\extracted_v4_1\\HCBM020000081971_1_2009-07-01.json",
+    "outcome": "undetermined",
+    "confidence": 0.0,
+    "source": "hybrid"
+  },
+  {
+    "case_id": "HCBM020000181966_1_2006-12-22",
+    "file": "C:\\Users\\ramma\\LV\\output\\extracted_v4_1\\HCBM020000181966_1_2006-12-22.json",
+    "outcome": "undetermined",
+    "confidence": 0.0,
+    "source": "hybrid"
+  },
+  {
+    "case_id": "HCBM020000181968_1_2006-12-19",
+    "file": "C:\\Users\\ramma\\LV\\output\\extracted_v4_1\\HCBM020000181968_1_2006-12-19.json",
+    "outcome": "undetermined",
+    "confidence": 0.0,
+    "source": "hybrid"
+  },
+  {
+    "case_id": "HCBM020000291980_1_2007-07-13",
+    "file": "C:\\Users\\ramma\\LV\\output\\extracted_v4_1\\HCBM020000291980_1_2007-07-13.json",
+    "outcome": "undetermined",
+    "confidence": 0.0,
+    "source": "hybrid"
+  },
+  {
+    "case_id": "HCBM020000301988_1_2006-01-27",
+    "file": "C:\\Users\\ramma\\LV\\output\\extracted_v4_1\\HCBM020000301988_1_2006-01-27.json",
+    "outcome": "undetermined",
+    "confidence": 0.0,
+    "source": "hybrid"
+  },
+  {
+    "case_id": "HCBM020000311968_1_2006-12-22",
+    "file": "C:\\Users\\ramma\\LV\\output\\extracted_v4_1\\HCBM020000311968_1_2006-12-22.json",
+    "outcome": "undetermined",
+    "confidence": 0.0,
+    "source": "hybrid"
+  },
+  {
+    "case_id": "HCBM020000311969_1_2006-12-22",
+    "file": "C:\\Users\\ramma\\LV\\output\\extracted_v4_1\\HCBM020000311969_1_2006-12-22.json",
+    "outcome": "undetermined",
+    "confidence": 0.0,
+    "source": "hybrid"
+  },
+  {
+    "case_id": "HCBM020000321968_1_2006-12-22",
+    "file": "C:\\Users\\ramma\\LV\\output\\extracted_v4_1\\HCBM020000321968_1_2006-12-22.json",
+    "outcome": "undetermined",
+    "confidence": 0.0,
+    "source": "hybrid"
+  },
+  {
+    "case_id": "HCBM020000321970_1_2006-12-22",
+    "file": "C:\\Users\\ramma\\LV\\output\\extracted_v4_1\\HCBM020000321970_1_2006-12-22.json",
+    "outcome": "undetermined",
+    "confidence": 0.0,
+    "source": "hybrid"
+  },
+  {
+    "case_id": "HCBM020000331970_1_2006-12-22",
+    "file": "C:\\Users\\ramma\\LV\\output\\extracted_v4_1\\HCBM020000331970_1_2006-12-22.json",
+    "outcome": "undetermined",
+    "confidence": 0.0,
+    "source": "hybrid"
+  },
+  {
+    "case_id": "HCBM020000341970_1_2006-12-22",
+    "file": "C:\\Users\\ramma\\LV\\output\\extracted_v4_1\\HCBM020000341970_1_2006-12-22.json",
+    "outcome": "undetermined",
+    "confidence": 0.0,
+    "source": "hybrid"
+  },
+  {
+    "case_id": "HCBM020000351970_1_2006-12-22",
+    "file": "C:\\Users\\ramma\\LV\\output\\extracted_v4_1\\HCBM020000351970_1_2006-12-22.json",
+    "outcome": "undetermined",
+    "confidence": 0.0,
+    "source": "hybrid"
+  },
+  {
+    "case_id": "HCBM020000361970_1_2006-12-22",
+    "file": "C:\\Users\\ramma\\LV\\output\\extracted_v4_1\\HCBM020000361970_1_2006-12-22.json",
+    "outcome": "undetermined",
+    "confidence": 0.0,
+    "source": "hybrid"
+  },
+  {
+    "case_id": "HCBM020000371970_1_2006-12-22",
+    "file": "C:\\Users\\ramma\\LV\\output\\extracted_v4_1\\HCBM020000371970_1_2006-12-22.json",
+    "outcome": "undetermined",
+    "confidence": 0.0,
+    "source": "hybrid"
+  },
+  {
+    "case_id": "HCBM020000381970_1_2006-12-22",
+    "file": "C:\\Users\\ramma\\LV\\output\\extracted_v4_1\\HCBM020000381970_1_2006-12-22.json",
+    "outcome": "undetermined",
+    "confidence": 0.0,
+    "source": "hybrid"
+  },
+  {
+    "case_id": "HCBM020000441971_1_2006-10-06",
+    "file": "C:\\Users\\ramma\\LV\\output\\extracted_v4_1\\HCBM020000441971_1_2006-10-06.json",
+    "outcome": "undetermined",
+    "confidence": 0.0,
+    "source": "hybrid"
+  },
+  {
+    "case_id": "HCBM020000461981_1_2006-06-08",
+    "file": "C:\\Users\\ramma\\LV\\output\\extracted_v4_1\\HCBM020000461981_1_2006-06-08.json",
+    "outcome": "undetermined",
+    "confidence": 0.0,
+    "source": "hybrid"
+  },
+  {
+    "case_id": "HCBM020000511970_1_2015-09-08",
+    "file": "C:\\Users\\ramma\\LV\\output\\extracted_v4_1\\HCBM020000511970_1_2015-09-08.json",
+    "outcome": "undetermined",
+    "confidence": 0.0,
+    "source": "hybrid"
+  },
+  {
+    "case_id": "HCBM020000521975_1_2005-06-08",
+    "file": "C:\\Users\\ramma\\LV\\output\\extracted_v4_1\\HCBM020000521975_1_2005-06-08.json",
+    "outcome": "undetermined",
+    "confidence": 0.0,
+    "source": "hybrid"
+  },
+  {
+    "case_id": "HCBM020000811978_1_2005-01-20",
+    "file": "C:\\Users\\ramma\\LV\\output\\extracted_v4_1\\HCBM020000811978_1_2005-01-20.json",
+    "outcome": "undetermined",
+    "confidence": 0.0,
+    "source": "hybrid"
+  },
+  {
+    "case_id": "HCBM020000931971_1_2017-02-17",
+    "file": "C:\\Users\\ramma\\LV\\output\\extracted_v4_1\\HCBM020000931971_1_2017-02-17.json",
+    "outcome": "undetermined",
+    "confidence": 0.0,
+    "source": "hybrid"
+  },
+  {
+    "case_id": "HCBM020001171979_1_2006-03-17",
+    "file": "C:\\Users\\ramma\\LV\\output\\extracted_v4_1\\HCBM020001171979_1_2006-03-17.json",
+    "outcome": "undetermined",
+    "confidence": 0.0,
+    "source": "hybrid"
+  },
+  {
+    "case_id": "HCBM020001371964_1_2020-03-11",
+    "file": "C:\\Users\\ramma\\LV\\output\\extracted_v4_1\\HCBM020001371964_1_2020-03-11.json",
+    "outcome": "undetermined",
+    "confidence": 0.0,
+    "source": "hybrid"
+  },
+  {
+    "case_id": "HCBM020001571978_1_2009-07-01",
+    "file": "C:\\Users\\ramma\\LV\\output\\extracted_v4_1\\HCBM020001571978_1_2009-07-01.json",
+    "outcome": "undetermined",
+    "confidence": 0.0,
+    "source": "hybrid"
+  },
+  {
+    "case_id": "HCBM020001611986_1_2004-10-14",
+    "file": "C:\\Users\\ramma\\LV\\output\\extracted_v4_1\\HCBM020001611986_1_2004-10-14.json",
+    "outcome": "undetermined",
+    "confidence": 0.0,
+    "source": "hybrid"
+  },
+  {
+    "case_id": "CIVIL JURISDICTION OFFICIAL LIQUIDATOR S REPORT DATED 12/09",
+    "file": "C:\\Users\\ramma\\LV\\output\\extracted_v4_1\\HCBM020001641982_1_2005-09-15.json",
+    "outcome": "undetermined",
+    "confidence": 0.0,
+    "source": "hybrid"
+  },
+  {
+    "case_id": "HCBM020001701979_1_2007-07-13",
+    "file": "C:\\Users\\ramma\\LV\\output\\extracted_v4_1\\HCBM020001701979_1_2007-07-13.json",
+    "outcome": "undetermined",
+    "confidence": 0.0,
+    "source": "hybrid"
+  },
+  {
+    "case_id": "HCBM020001821981_1_2005-06-16",
+    "file": "C:\\Users\\ramma\\LV\\output\\extracted_v4_1\\HCBM020001821981_1_2005-06-16.json",
+    "outcome": "undetermined",
+    "confidence": 0.0,
+    "source": "hybrid"
+  },
+  {
+    "case_id": "HCBM020002161976_1_2005-06-17",
+    "file": "C:\\Users\\ramma\\LV\\output\\extracted_v4_1\\HCBM020002161976_1_2005-06-17.json",
+    "outcome": "undetermined",
+    "confidence": 0.0,
+    "source": "hybrid"
+  },
+  {
+    "case_id": "HCBM020002331983_1_2009-02-26",
+    "file": "C:\\Users\\ramma\\LV\\output\\extracted_v4_1\\HCBM020002331983_1_2009-02-26.json",
+    "outcome": "undetermined",
+    "confidence": 0.0,
+    "source": "hybrid"
+  },
+  {
+    "case_id": "HCBM020002351989_1_2009-05-06",
+    "file": "C:\\Users\\ramma\\LV\\output\\extracted_v4_1\\HCBM020002351989_1_2009-05-06.json",
+    "outcome": "undetermined",
+    "confidence": 0.0,
+    "source": "hybrid"
+  },
+  {
+    "case_id": "HCBM020002561975_1_2005-01-18",
+    "file": "C:\\Users\\ramma\\LV\\output\\extracted_v4_1\\HCBM020002561975_1_2005-01-18.json",
+    "outcome": "undetermined",
+    "confidence": 0.0,
+    "source": "hybrid"
+  },
+  {
+    "case_id": "HCBM020002821984_1_2007-06-21",
+    "file": "C:\\Users\\ramma\\LV\\output\\extracted_v4_1\\HCBM020002821984_1_2007-06-21.json",
+    "outcome": "undetermined",
+    "confidence": 0.0,
+    "source": "hybrid"
+  },
+  {
+    "case_id": "HCBM020003631974_1_2018-09-12",
+    "file": "C:\\Users\\ramma\\LV\\output\\extracted_v4_1\\HCBM020003631974_1_2018-09-12.json",
+    "outcome": "undetermined",
+    "confidence": 0.0,
+    "source": "hybrid"
+  },
+  {
+    "case_id": "HCBM020004001981_1_2007-07-13",
+    "file": "C:\\Users\\ramma\\LV\\output\\extracted_v4_1\\HCBM020004001981_1_2007-07-13.json",
+    "outcome": "undetermined",
+    "confidence": 0.0,
+    "source": "hybrid"
+  },
+  {
+    "case_id": "HCBM020007301978_1_2005-09-02",
+    "file": "C:\\Users\\ramma\\LV\\output\\extracted_v4_1\\HCBM020007301978_1_2005-09-02.json",
+    "outcome": "undetermined",
+    "confidence": 0.0,
+    "source": "hybrid"
+  },
+  {
+    "case_id": "HCBM020007821984_1_2004-08-17",
+    "file": "C:\\Users\\ramma\\LV\\output\\extracted_v4_1\\HCBM020007821984_1_2004-08-17.json",
+    "outcome": "undetermined",
+    "confidence": 0.0,
+    "source": "hybrid"
+  },
+  {
+    "case_id": "HCBM020007981990_1_2009-02-09",
+    "file": "C:\\Users\\ramma\\LV\\output\\extracted_v4_1\\HCBM020007981990_1_2009-02-09.json",
+    "outcome": "undetermined",
+    "confidence": 0.0,
+    "source": "hybrid"
+  },
+  {
+    "case_id": "HCBM020008151988_1_2005-01-27",
+    "file": "C:\\Users\\ramma\\LV\\output\\extracted_v4_1\\HCBM020008151988_1_2005-01-27.json",
+    "outcome": "undetermined",
+    "confidence": 0.0,
+    "source": "hybrid"
+  },
+  {
+    "case_id": "HCBM020012011985_1_2005-01-19",
+    "file": "C:\\Users\\ramma\\LV\\output\\extracted_v4_1\\HCBM020012011985_1_2005-01-19.json",
+    "outcome": "undetermined",
+    "confidence": 0.0,
+    "source": "hybrid"
+  },
+  {
+    "case_id": "HCBM020014151979_1_2013-09-03",
+    "file": "C:\\Users\\ramma\\LV\\output\\extracted_v4_1\\HCBM020014151979_1_2013-09-03.json",
+    "outcome": "undetermined",
+    "confidence": 0.0,
+    "source": "hybrid"
+  },
+  {
+    "case_id": "HCBM020014221979_1_2006-03-17",
+    "file": "C:\\Users\\ramma\\LV\\output\\extracted_v4_1\\HCBM020014221979_1_2006-03-17.json",
+    "outcome": "undetermined",
+    "confidence": 0.0,
+    "source": "hybrid"
+  },
+  {
+    "case_id": "HCBM020014231979_1_2006-03-17",
+    "file": "C:\\Users\\ramma\\LV\\output\\extracted_v4_1\\HCBM020014231979_1_2006-03-17.json",
+    "outcome": "undetermined",
+    "confidence": 0.0,
+    "source": "hybrid"
+  },
+  {
+    "case_id": "HCBM020014611985_1_2009-08-29",
+    "file": "C:\\Users\\ramma\\LV\\output\\extracted_v4_1\\HCBM020014611985_1_2009-08-29.json",
+    "outcome": "undetermined",
+    "confidence": 0.0,
+    "source": "hybrid"
+  },
+  {
+    "case_id": "CIVIL JURISDICTION COMPANY PETITION NO.306 OF 1985 ALONG WITH COMPANY PETITION NO.CP/66/1995",
+    "file": "C:\\Users\\ramma\\LV\\output\\extracted_v4_1\\HCBM020016381985_1_2005-09-29.json",
+    "outcome": "undetermined",
+    "confidence": 0.0,
+    "source": "hybrid"
+  },
+  {
+    "case_id": "HCBM020017401985_1_2005-10-06",
+    "file": "C:\\Users\\ramma\\LV\\output\\extracted_v4_1\\HCBM020017401985_1_2005-10-06.json",
+    "outcome": "undetermined",
+    "confidence": 0.0,
+    "source": "hybrid"
+  },
+  {
+    "case_id": "HCBM020019401989_1_2009-06-12",
+    "file": "C:\\Users\\ramma\\LV\\output\\extracted_v4_1\\HCBM020019401989_1_2009-06-12.json",
+    "outcome": "undetermined",
+    "confidence": 0.0,
+    "source": "hybrid"
+  },
+  {
+    "case_id": "HCBM020020461982_1_2007-03-16",
+    "file": "C:\\Users\\ramma\\LV\\output\\extracted_v4_1\\HCBM020020461982_1_2007-03-16.json",
+    "outcome": "undetermined",
+    "confidence": 0.0,
+    "source": "hybrid"
+  },
+  {
+    "case_id": "HCBM020022271983_1_2021-11-24",
+    "file": "C:\\Users\\ramma\\LV\\output\\extracted_v4_1\\HCBM020022271983_1_2021-11-24.json",
+    "outcome": "undetermined",
+    "confidence": 0.0,
+    "source": "hybrid"
+  },
+  {
+    "case_id": "HCBM020022281991_1_2012-05-07",
+    "file": "C:\\Users\\ramma\\LV\\output\\extracted_v4_1\\HCBM020022281991_1_2012-05-07.json",
+    "outcome": "undetermined",
+    "confidence": 0.0,
+    "source": "hybrid"
+  },
+  {
+    "case_id": "CIVIL JURISDICTION SUIT NO. 3255 OF 1995 WITH SUIT NO. 4339 OF 1995 ALONG WITH CHAMBER SUMMONS NO. 1641 OF 2003 ALONG WITH TESTAMENTARY AND INTESTATE JURISDICTION TESTAMENTARY SUIT NO. 56 OF 1995 IN TESTAMENTARY PETITION NO. 494 OF 1989 WITH TESTAMENTARY SUIT NO. 72 OF 1989 Ayodyanath Harichand Kapur since deceased Dolly Ayodyanath Kapur alias Harsha Deepak Tindari & Ors. Plaintiffs Versus Bhupendranath Harichand Kapur Defendant Mr. M.C. Hegde, for the Plaintiffs in S.3255/95",
+    "file": "C:\\Users\\ramma\\LV\\output\\extracted_v4_1\\HCBM020023731989_1_2015-03-03.json",
+    "outcome": "undetermined",
+    "confidence": 0.0,
+    "source": "hybrid"
+  },
+  {
+    "case_id": "Suit No.3709/89",
+    "file": "C:\\Users\\ramma\\LV\\output\\extracted_v4_1\\HCBM020023991990_1_2005-04-12.json",
+    "outcome": "undetermined",
+    "confidence": 0.0,
+    "source": "hybrid"
+  },
+  {
+    "case_id": "HCBM020027921987_1_2006-07-27",
+    "file": "C:\\Users\\ramma\\LV\\output\\extracted_v4_1\\HCBM020027921987_1_2006-07-27.json",
+    "outcome": "undetermined",
+    "confidence": 0.0,
+    "source": "hybrid"
+  },
+  {
+    "case_id": "HCBM020029121988_1_2006-04-28",
+    "file": "C:\\Users\\ramma\\LV\\output\\extracted_v4_1\\HCBM020029121988_1_2006-04-28.json",
+    "outcome": "undetermined",
+    "confidence": 0.0,
+    "source": "hybrid"
+  },
+  {
+    "case_id": "HCBM020030031983_1_2015-04-30",
+    "file": "C:\\Users\\ramma\\LV\\output\\extracted_v4_1\\HCBM020030031983_1_2015-04-30.json",
+    "outcome": "undetermined",
+    "confidence": 0.0,
+    "source": "hybrid"
+  },
+  {
+    "case_id": "HCBM020030361990_1_2005-11-17",
+    "file": "C:\\Users\\ramma\\LV\\output\\extracted_v4_1\\HCBM020030361990_1_2005-11-17.json",
+    "outcome": "undetermined",
+    "confidence": 0.0,
+    "source": "hybrid"
+  },
+  {
+    "case_id": "HCBM020030971984_1_2005-07-15",
+    "file": "C:\\Users\\ramma\\LV\\output\\extracted_v4_1\\HCBM020030971984_1_2005-07-15.json",
+    "outcome": "undetermined",
+    "confidence": 0.0,
+    "source": "hybrid"
+  },
+  {
+    "case_id": "HCBM020031181983_1_2019-04-30",
+    "file": "C:\\Users\\ramma\\LV\\output\\extracted_v4_1\\HCBM020031181983_1_2019-04-30.json",
+    "outcome": "undetermined",
+    "confidence": 0.0,
+    "source": "hybrid"
+  },
+  {
+    "case_id": "HCBM020031441984_1_2024-02-15",
+    "file": "C:\\Users\\ramma\\LV\\output\\extracted_v4_1\\HCBM020031441984_1_2024-02-15.json",
+    "outcome": "undetermined",
+    "confidence": 0.0,
+    "source": "hybrid"
+  },
+  {
+    "case_id": "HCBM020032551990_1_2009-02-04",
+    "file": "C:\\Users\\ramma\\LV\\output\\extracted_v4_1\\HCBM020032551990_1_2009-02-04.json",
+    "outcome": "undetermined",
+    "confidence": 0.0,
+    "source": "hybrid"
+  },
+  {
+    "case_id": "HCBM020036581985_1_2016-10-07",
+    "file": "C:\\Users\\ramma\\LV\\output\\extracted_v4_1\\HCBM020036581985_1_2016-10-07.json",
+    "outcome": "undetermined",
+    "confidence": 0.0,
+    "source": "hybrid"
+  },
+  {
+    "case_id": "HCBM020036621984_1_2018-08-31",
+    "file": "C:\\Users\\ramma\\LV\\output\\extracted_v4_1\\HCBM020036621984_1_2018-08-31.json",
+    "outcome": "undetermined",
+    "confidence": 0.0,
+    "source": "hybrid"
+  },
+  {
+    "case_id": "HCBM020036991989_1_2006-03-22",
+    "file": "C:\\Users\\ramma\\LV\\output\\extracted_v4_1\\HCBM020036991989_1_2006-03-22.json",
+    "outcome": "undetermined",
+    "confidence": 0.0,
+    "source": "hybrid"
+  },
+  {
+    "case_id": "HCBM020037191988_1_2005-04-08",
+    "file": "C:\\Users\\ramma\\LV\\output\\extracted_v4_1\\HCBM020037191988_1_2005-04-08.json",
+    "outcome": "undetermined",
+    "confidence": 0.0,
+    "source": "hybrid"
+  },
+  {
+    "case_id": "HCBM020039531986_1_2005-01-18",
+    "file": "C:\\Users\\ramma\\LV\\output\\extracted_v4_1\\HCBM020039531986_1_2005-01-18.json",
+    "outcome": "undetermined",
+    "confidence": 0.0,
+    "source": "hybrid"
+  },
+  {
+    "case_id": "HCBM020040731988_1_2006-01-20",
+    "file": "C:\\Users\\ramma\\LV\\output\\extracted_v4_1\\HCBM020040731988_1_2006-01-20.json",
+    "outcome": "undetermined",
+    "confidence": 0.0,
+    "source": "hybrid"
+  },
+  {
+    "case_id": "HCBM020045011986_1_2009-02-26",
+    "file": "C:\\Users\\ramma\\LV\\output\\extracted_v4_1\\HCBM020045011986_1_2009-02-26.json",
+    "outcome": "undetermined",
+    "confidence": 0.0,
+    "source": "hybrid"
+  },
+  {
+    "case_id": "HCBM020054961987_1_2004-12-17",
+    "file": "C:\\Users\\ramma\\LV\\output\\extracted_v4_1\\HCBM020054961987_1_2004-12-17.json",
+    "outcome": "undetermined",
+    "confidence": 0.0,
+    "source": "hybrid"
+  },
+  {
+    "case_id": "HCBM020061931988_1_2007-03-14",
+    "file": "C:\\Users\\ramma\\LV\\output\\extracted_v4_1\\HCBM020061931988_1_2007-03-14.json",
+    "outcome": "undetermined",
+    "confidence": 0.0,
+    "source": "hybrid"
+  },
+  {
+    "case_id": "CIVIL APPELLATE JURISDICTION. WRIT PETITION NO. 2481 OF 1998 WITH WRIT PETITION NO. 2550 OF 1996 WITH CIVIL APPLICATION NO. 1277 OF 2014 Office Notes, Office Memoranda of Coram, Appearances, court s orders or directions and Registrar s orders Court s or Judge s orders Ms. Deepa Kamat for the Petitioner in WP/2481/98",
+    "file": "C:\\Users\\ramma\\LV\\output\\extracted_v4_1\\HCBM020064521988_1_2017-08-04.json",
+    "outcome": "undetermined",
+    "confidence": 0.0,
+    "source": "hybrid"
+  },
+  {
+    "case_id": "HCBM020067291988_1_2005-03-15",
+    "file": "C:\\Users\\ramma\\LV\\output\\extracted_v4_1\\HCBM020067291988_1_2005-03-15.json",
+    "outcome": "undetermined",
+    "confidence": 0.0,
+    "source": "hybrid"
+  },
+  {
+    "case_id": "HCBM020077101988_1_2012-03-09",
+    "file": "C:\\Users\\ramma\\LV\\output\\extracted_v4_1\\HCBM020077101988_1_2012-03-09.json",
+    "outcome": "undetermined",
+    "confidence": 0.0,
+    "source": "hybrid"
+  },
+  {
+    "case_id": "HCBM020085351989_1_2009-07-07",
+    "file": "C:\\Users\\ramma\\LV\\output\\extracted_v4_1\\HCBM020085351989_1_2009-07-07.json",
+    "outcome": "undetermined",
+    "confidence": 0.0,
+    "source": "hybrid"
+  },
+  {
+    "case_id": "OLR NO.94/08",
+    "file": "C:\\Users\\ramma\\LV\\output\\extracted_v4_1\\HCBM020085641989_1_2009-05-07.json",
+    "outcome": "undetermined",
+    "confidence": 0.0,
+    "source": "hybrid"
+  },
+  {
+    "case_id": "HCBM020086881987_1_2009-01-23",
+    "file": "C:\\Users\\ramma\\LV\\output\\extracted_v4_1\\HCBM020086881987_1_2009-01-23.json",
+    "outcome": "undetermined",
+    "confidence": 0.0,
+    "source": "hybrid"
+  },
+  {
+    "case_id": "HCBM020087111989_1_2017-02-27",
+    "file": "C:\\Users\\ramma\\LV\\output\\extracted_v4_1\\HCBM020087111989_1_2017-02-27.json",
+    "outcome": "undetermined",
+    "confidence": 0.0,
+    "source": "hybrid"
+  },
+  {
+    "case_id": "HCBM020092481990_1_2007-07-17",
+    "file": "C:\\Users\\ramma\\LV\\output\\extracted_v4_1\\HCBM020092481990_1_2007-07-17.json",
+    "outcome": "undetermined",
+    "confidence": 0.0,
+    "source": "hybrid"
+  },
+  {
+    "case_id": "CIVIL JURISDICTION OFFICIAL LIQUIDATOR'S REPORT NO.256 / 2012/ LIQN-IX (Dt. 15/1/2013",
+    "file": "C:\\Users\\ramma\\LV\\output\\extracted_v4_1\\HCBM020093641990_1_2013-02-14.json",
+    "outcome": "undetermined",
+    "confidence": 0.0,
+    "source": "hybrid"
+  },
+  {
+    "case_id": "HCBM020093961990_1_2017-02-27",
+    "file": "C:\\Users\\ramma\\LV\\output\\extracted_v4_1\\HCBM020093961990_1_2017-02-27.json",
+    "outcome": "undetermined",
+    "confidence": 0.0,
+    "source": "hybrid"
+  },
+  {
+    "case_id": "PETITION NO 1021/1984",
+    "file": "C:\\Users\\ramma\\LV\\output\\extracted_v4_1\\HCBM030006511985_1_2014-07-25.json",
+    "outcome": "undetermined",
+    "confidence": 0.0,
+    "source": "hybrid"
+  },
+  {
+    "case_id": "PETITION NO 1021/1984",
+    "file": "C:\\Users\\ramma\\LV\\output\\extracted_v4_1\\HCBM030032681991_1_2014-07-25.json",
+    "outcome": "undetermined",
+    "confidence": 0.0,
+    "source": "hybrid"
+  },
+  {
+    "case_id": "HCBM040000021961_1_2025-01-17",
+    "file": "C:\\Users\\ramma\\LV\\output\\extracted_v4_1\\HCBM040000021961_1_2025-01-17.json",
+    "outcome": "undetermined",
+    "confidence": 0.0,
+    "source": "hybrid"
+  },
+  {
+    "case_id": "PETITION NO. 5/1995",
+    "file": "C:\\Users\\ramma\\LV\\output\\extracted_v4_1\\HCBM040000021976_1_2025-02-28.json",
+    "outcome": "undetermined",
+    "confidence": 0.0,
+    "source": "hybrid"
+  },
+  {
+    "case_id": "PETITION NO. 1644/1977",
+    "file": "C:\\Users\\ramma\\LV\\output\\extracted_v4_1\\HCBM040000021977_1_2013-09-04.json",
+    "outcome": "undetermined",
+    "confidence": 0.0,
+    "source": "hybrid"
+  },
+  {
+    "case_id": "PETITION NO. 5/1995",
+    "file": "C:\\Users\\ramma\\LV\\output\\extracted_v4_1\\HCBM040000031976_1_2025-02-28.json",
+    "outcome": "undetermined",
+    "confidence": 0.0,
+    "source": "hybrid"
+  },
+  {
+    "case_id": "PETITION NO. 5/1995",
+    "file": "C:\\Users\\ramma\\LV\\output\\extracted_v4_1\\HCBM040000041972_1_2025-02-28.json",
+    "outcome": "undetermined",
+    "confidence": 0.0,
+    "source": "hybrid"
+  },
+  {
+    "case_id": "PETITION NO. 5/1995",
+    "file": "C:\\Users\\ramma\\LV\\output\\extracted_v4_1\\HCBM040000101977_1_2025-02-28.json",
+    "outcome": "undetermined",
+    "confidence": 0.0,
+    "source": "hybrid"
+  },
+  {
+    "case_id": "PETITION NO. 5/1995",
+    "file": "C:\\Users\\ramma\\LV\\output\\extracted_v4_1\\HCBM040000191981_1_2025-02-28.json",
+    "outcome": "undetermined",
+    "confidence": 0.0,
+    "source": "hybrid"
+  },
+  {
+    "case_id": "PETITION NO. 5/1995",
+    "file": "C:\\Users\\ramma\\LV\\output\\extracted_v4_1\\HCBM040000201981_1_2025-02-28.json",
+    "outcome": "undetermined",
+    "confidence": 0.0,
+    "source": "hybrid"
+  },
+  {
+    "case_id": "HCBM040000641980_1_2009-12-01",
+    "file": "C:\\Users\\ramma\\LV\\output\\extracted_v4_1\\HCBM040000641980_1_2009-12-01.json",
+    "outcome": "undetermined",
+    "confidence": 0.0,
+    "source": "hybrid"
+  },
+  {
+    "case_id": "PETITION NO. 5/1995",
+    "file": "C:\\Users\\ramma\\LV\\output\\extracted_v4_1\\HCBM040003721985_1_2025-02-28.json",
+    "outcome": "undetermined",
+    "confidence": 0.0,
+    "source": "hybrid"
+  },
+  {
+    "case_id": "PETITION NO.2/1987",
+    "file": "C:\\Users\\ramma\\LV\\output\\extracted_v4_1\\HCBM040004731987_1_2007-09-28.json",
+    "outcome": "undetermined",
+    "confidence": 0.0,
+    "source": "hybrid"
+  },
+  {
+    "case_id": "HCBM040007281989_1_2024-09-27",
+    "file": "C:\\Users\\ramma\\LV\\output\\extracted_v4_1\\HCBM040007281989_1_2024-09-27.json",
+    "outcome": "undetermined",
+    "confidence": 0.0,
+    "source": "hybrid"
+  },
+  {
+    "case_id": "HCBM050000021975_1_2006-09-01",
+    "file": "C:\\Users\\ramma\\LV\\output\\extracted_v4_1\\HCBM050000021975_1_2006-09-01.json",
+    "outcome": "undetermined",
+    "confidence": 0.0,
+    "source": "hybrid"
+  },
+  {
+    "case_id": "HCBM070054421991_1_2008-09-10",
+    "file": "C:\\Users\\ramma\\LV\\output\\extracted_v4_1\\HCBM070054421991_1_2008-09-10.json",
+    "outcome": "undetermined",
+    "confidence": 0.0,
+    "source": "hybrid"
+  },
+  {
+    "case_id": "PHHC010001021992_1_2019-01-18",
+    "file": "C:\\Users\\ramma\\LV\\output\\extracted_v4_1\\PHHC010001021992_1_2019-01-18.json",
+    "outcome": "undetermined",
+    "confidence": 0.0,
+    "source": "hybrid"
+  },
+  {
+    "case_id": "PHHC010001031989_1_2014-05-08",
+    "file": "C:\\Users\\ramma\\LV\\output\\extracted_v4_1\\PHHC010001031989_1_2014-05-08.json",
+    "outcome": "undetermined",
+    "confidence": 0.0,
+    "source": "hybrid"
+  },
+  {
+    "case_id": "PHHC010001831989_1_2014-05-07",
+    "file": "C:\\Users\\ramma\\LV\\output\\extracted_v4_1\\PHHC010001831989_1_2014-05-07.json",
+    "outcome": "undetermined",
+    "confidence": 0.0,
+    "source": "hybrid"
+  },
+  {
+    "case_id": "PHHC010002911988_1_2014-05-06",
+    "file": "C:\\Users\\ramma\\LV\\output\\extracted_v4_1\\PHHC010002911988_1_2014-05-06.json",
+    "outcome": "undetermined",
+    "confidence": 0.0,
+    "source": "hybrid"
+  },
+  {
+    "case_id": "PHHC010006371991_1_2014-05-08",
+    "file": "C:\\Users\\ramma\\LV\\output\\extracted_v4_1\\PHHC010006371991_1_2014-05-08.json",
+    "outcome": "undetermined",
+    "confidence": 0.0,
+    "source": "hybrid"
+  },
+  {
+    "case_id": "PHHC010015041996_1_2014-12-04",
+    "file": "C:\\Users\\ramma\\LV\\output\\extracted_v4_1\\PHHC010015041996_1_2014-12-04.json",
+    "outcome": "undetermined",
+    "confidence": 0.0,
+    "source": "hybrid"
+  },
+  {
+    "case_id": "PHHC010023561984_1_2010-11-19",
+    "file": "C:\\Users\\ramma\\LV\\output\\extracted_v4_1\\PHHC010023561984_1_2010-11-19.json",
+    "outcome": "undetermined",
+    "confidence": 0.0,
+    "source": "hybrid"
+  },
+  {
+    "case_id": "PHHC010031121986_1_2012-07-09",
+    "file": "C:\\Users\\ramma\\LV\\output\\extracted_v4_1\\PHHC010031121986_1_2012-07-09.json",
+    "outcome": "undetermined",
+    "confidence": 0.0,
+    "source": "hybrid"
+  },
+  {
+    "case_id": "PHHC010043451989_1_2010-05-12",
+    "file": "C:\\Users\\ramma\\LV\\output\\extracted_v4_1\\PHHC010043451989_1_2010-05-12.json",
+    "outcome": "undetermined",
+    "confidence": 0.0,
+    "source": "hybrid"
+  },
+  {
+    "case_id": "PHHC010068271985_1_2014-01-29",
+    "file": "C:\\Users\\ramma\\LV\\output\\extracted_v4_1\\PHHC010068271985_1_2014-01-29.json",
+    "outcome": "undetermined",
+    "confidence": 0.0,
+    "source": "hybrid"
+  },
+  {
+    "case_id": "PHHC010081131993_1_2009-07-15",
+    "file": "C:\\Users\\ramma\\LV\\output\\extracted_v4_1\\PHHC010081131993_1_2009-07-15.json",
+    "outcome": "undetermined",
+    "confidence": 0.0,
+    "source": "hybrid"
+  },
+  {
+    "case_id": "PHHC010095671991_1_2013-05-06",
+    "file": "C:\\Users\\ramma\\LV\\output\\extracted_v4_1\\PHHC010095671991_1_2013-05-06.json",
+    "outcome": "undetermined",
+    "confidence": 0.0,
+    "source": "hybrid"
+  },
+  {
+    "case_id": "PHHC010096701996_1_2008-02-22",
+    "file": "C:\\Users\\ramma\\LV\\output\\extracted_v4_1\\PHHC010096701996_1_2008-02-22.json",
+    "outcome": "undetermined",
+    "confidence": 0.0,
+    "source": "hybrid"
+  },
+  {
+    "case_id": "PHHC010102441989_1_2009-03-24",
+    "file": "C:\\Users\\ramma\\LV\\output\\extracted_v4_1\\PHHC010102441989_1_2009-03-24.json",
+    "outcome": "undetermined",
+    "confidence": 0.0,
+    "source": "hybrid"
+  },
+  {
+    "case_id": "PHHC010109361991_1_2009-05-12",
+    "file": "C:\\Users\\ramma\\LV\\output\\extracted_v4_1\\PHHC010109361991_1_2009-05-12.json",
+    "outcome": "undetermined",
+    "confidence": 0.0,
+    "source": "hybrid"
+  },
+  {
+    "case_id": "PHHC010122461998_1_2008-11-19",
+    "file": "C:\\Users\\ramma\\LV\\output\\extracted_v4_1\\PHHC010122461998_1_2008-11-19.json",
+    "outcome": "undetermined",
+    "confidence": 0.0,
+    "source": "hybrid"
+  },
+  {
+    "case_id": "PHHC010134461990_1_2011-07-08",
+    "file": "C:\\Users\\ramma\\LV\\output\\extracted_v4_1\\PHHC010134461990_1_2011-07-08.json",
+    "outcome": "undetermined",
+    "confidence": 0.0,
+    "source": "hybrid"
+  },
+  {
+    "case_id": "PHHC010150431994_1_2014-02-20",
+    "file": "C:\\Users\\ramma\\LV\\output\\extracted_v4_1\\PHHC010150431994_1_2014-02-20.json",
+    "outcome": "undetermined",
+    "confidence": 0.0,
+    "source": "hybrid"
+  },
+  {
+    "case_id": "PHHC010151801997_1_2022-08-24",
+    "file": "C:\\Users\\ramma\\LV\\output\\extracted_v4_1\\PHHC010151801997_1_2022-08-24.json",
+    "outcome": "undetermined",
+    "confidence": 0.0,
+    "source": "hybrid"
+  },
+  {
+    "case_id": "PHHC010154151996_1_2019-09-02",
+    "file": "C:\\Users\\ramma\\LV\\output\\extracted_v4_1\\PHHC010154151996_1_2019-09-02.json",
+    "outcome": "undetermined",
+    "confidence": 0.0,
+    "source": "hybrid"
+  },
+  {
+    "case_id": "PHHC010158791995_1_2012-02-29",
+    "file": "C:\\Users\\ramma\\LV\\output\\extracted_v4_1\\PHHC010158791995_1_2012-02-29.json",
+    "outcome": "undetermined",
+    "confidence": 0.0,
+    "source": "hybrid"
+  },
+  {
+    "case_id": "PHHC010160301995_1_2012-02-27",
+    "file": "C:\\Users\\ramma\\LV\\output\\extracted_v4_1\\PHHC010160301995_1_2012-02-27.json",
+    "outcome": "undetermined",
+    "confidence": 0.0,
+    "source": "hybrid"
+  },
+  {
+    "case_id": "PHHC010164651993_1_2012-10-16",
+    "file": "C:\\Users\\ramma\\LV\\output\\extracted_v4_1\\PHHC010164651993_1_2012-10-16.json",
+    "outcome": "undetermined",
+    "confidence": 0.0,
+    "source": "hybrid"
+  },
+  {
+    "case_id": "PHHC010186921994_1_2012-11-02",
+    "file": "C:\\Users\\ramma\\LV\\output\\extracted_v4_1\\PHHC010186921994_1_2012-11-02.json",
+    "outcome": "undetermined",
+    "confidence": 0.0,
+    "source": "hybrid"
+  },
+  {
+    "case_id": "PHHC010188571994_1_2013-05-17",
+    "file": "C:\\Users\\ramma\\LV\\output\\extracted_v4_1\\PHHC010188571994_1_2013-05-17.json",
+    "outcome": "undetermined",
+    "confidence": 0.0,
+    "source": "hybrid"
+  },
+  {
+    "case_id": "PHHC010206451990_1_2013-07-01",
+    "file": "C:\\Users\\ramma\\LV\\output\\extracted_v4_1\\PHHC010206451990_1_2013-07-01.json",
+    "outcome": "undetermined",
+    "confidence": 0.0,
+    "source": "hybrid"
+  },
+  {
+    "case_id": "PHHC010206551990_1_2013-07-01",
+    "file": "C:\\Users\\ramma\\LV\\output\\extracted_v4_1\\PHHC010206551990_1_2013-07-01.json",
+    "outcome": "undetermined",
+    "confidence": 0.0,
+    "source": "hybrid"
+  },
+  {
+    "case_id": "PHHC010215191994_1_2012-07-31",
+    "file": "C:\\Users\\ramma\\LV\\output\\extracted_v4_1\\PHHC010215191994_1_2012-07-31.json",
+    "outcome": "undetermined",
+    "confidence": 0.0,
+    "source": "hybrid"
+  },
+  {
+    "case_id": "PHHC010234481993_1_2009-03-03",
+    "file": "C:\\Users\\ramma\\LV\\output\\extracted_v4_1\\PHHC010234481993_1_2009-03-03.json",
+    "outcome": "undetermined",
+    "confidence": 0.0,
+    "source": "hybrid"
+  },
+  {
+    "case_id": "PHHC010241051992_1_2008-10-21",
+    "file": "C:\\Users\\ramma\\LV\\output\\extracted_v4_1\\PHHC010241051992_1_2008-10-21.json",
+    "outcome": "undetermined",
+    "confidence": 0.0,
+    "source": "hybrid"
+  },
+  {
+    "case_id": "PHHC010248721995_1_2016-03-30",
+    "file": "C:\\Users\\ramma\\LV\\output\\extracted_v4_1\\PHHC010248721995_1_2016-03-30.json",
+    "outcome": "undetermined",
+    "confidence": 0.0,
+    "source": "hybrid"
+  },
+  {
+    "case_id": "PHHC010251241992_1_2011-03-23",
+    "file": "C:\\Users\\ramma\\LV\\output\\extracted_v4_1\\PHHC010251241992_1_2011-03-23.json",
+    "outcome": "undetermined",
+    "confidence": 0.0,
+    "source": "hybrid"
+  },
+  {
+    "case_id": "PHHC010258791998_1_2014-07-17",
+    "file": "C:\\Users\\ramma\\LV\\output\\extracted_v4_1\\PHHC010258791998_1_2014-07-17.json",
+    "outcome": "undetermined",
+    "confidence": 0.0,
+    "source": "hybrid"
+  },
+  {
+    "case_id": "PHHC010270731991_1_2008-11-04",
+    "file": "C:\\Users\\ramma\\LV\\output\\extracted_v4_1\\PHHC010270731991_1_2008-11-04.json",
+    "outcome": "undetermined",
+    "confidence": 0.0,
+    "source": "hybrid"
+  },
+  {
+    "case_id": "PHHC010278241989_1_2018-05-08",
+    "file": "C:\\Users\\ramma\\LV\\output\\extracted_v4_1\\PHHC010278241989_1_2018-05-08.json",
+    "outcome": "undetermined",
+    "confidence": 0.0,
+    "source": "hybrid"
+  },
+  {
+    "case_id": "PHHC010292071998_1_2010-01-20",
+    "file": "C:\\Users\\ramma\\LV\\output\\extracted_v4_1\\PHHC010292071998_1_2010-01-20.json",
+    "outcome": "undetermined",
+    "confidence": 0.0,
+    "source": "hybrid"
+  },
+  {
+    "case_id": "PHHC010296551994_1_2013-08-06",
+    "file": "C:\\Users\\ramma\\LV\\output\\extracted_v4_1\\PHHC010296551994_1_2013-08-06.json",
+    "outcome": "undetermined",
+    "confidence": 0.0,
+    "source": "hybrid"
+  },
+  {
+    "case_id": "PHHC010302981995_1_2010-07-16",
+    "file": "C:\\Users\\ramma\\LV\\output\\extracted_v4_1\\PHHC010302981995_1_2010-07-16.json",
+    "outcome": "undetermined",
+    "confidence": 0.0,
+    "source": "hybrid"
+  },
+  {
+    "case_id": "PHHC010314381995_1_2010-06-29",
+    "file": "C:\\Users\\ramma\\LV\\output\\extracted_v4_1\\PHHC010314381995_1_2010-06-29.json",
+    "outcome": "undetermined",
+    "confidence": 0.0,
+    "source": "hybrid"
+  },
+  {
+    "case_id": "PHHC010317041996_1_2012-10-16",
+    "file": "C:\\Users\\ramma\\LV\\output\\extracted_v4_1\\PHHC010317041996_1_2012-10-16.json",
+    "outcome": "undetermined",
+    "confidence": 0.0,
+    "source": "hybrid"
+  },
+  {
+    "case_id": "PHHC010327861996_1_2014-09-12",
+    "file": "C:\\Users\\ramma\\LV\\output\\extracted_v4_1\\PHHC010327861996_1_2014-09-12.json",
+    "outcome": "undetermined",
+    "confidence": 0.0,
+    "source": "hybrid"
+  },
+  {
+    "case_id": "PHHC010335101997_1_2013-01-07",
+    "file": "C:\\Users\\ramma\\LV\\output\\extracted_v4_1\\PHHC010335101997_1_2013-01-07.json",
+    "outcome": "undetermined",
+    "confidence": 0.0,
+    "source": "hybrid"
+  },
+  {
+    "case_id": "PHHC010337551997_1_2010-07-01",
+    "file": "C:\\Users\\ramma\\LV\\output\\extracted_v4_1\\PHHC010337551997_1_2010-07-01.json",
+    "outcome": "undetermined",
+    "confidence": 0.0,
+    "source": "hybrid"
+  },
+  {
+    "case_id": "PHHC010363111996_1_2011-05-20",
+    "file": "C:\\Users\\ramma\\LV\\output\\extracted_v4_1\\PHHC010363111996_1_2011-05-20.json",
+    "outcome": "undetermined",
+    "confidence": 0.0,
+    "source": "hybrid"
+  },
+  {
+    "case_id": "PHHC010365941996_1_2008-11-17",
+    "file": "C:\\Users\\ramma\\LV\\output\\extracted_v4_1\\PHHC010365941996_1_2008-11-17.json",
+    "outcome": "undetermined",
+    "confidence": 0.0,
+    "source": "hybrid"
+  },
+  {
+    "case_id": "PHHC010371721998_1_2015-07-17",
+    "file": "C:\\Users\\ramma\\LV\\output\\extracted_v4_1\\PHHC010371721998_1_2015-07-17.json",
+    "outcome": "undetermined",
+    "confidence": 0.0,
+    "source": "hybrid"
+  },
+  {
+    "case_id": "PHHC010372681998_1_2016-02-08",
+    "file": "C:\\Users\\ramma\\LV\\output\\extracted_v4_1\\PHHC010372681998_1_2016-02-08.json",
+    "outcome": "undetermined",
+    "confidence": 0.0,
+    "source": "hybrid"
+  },
+  {
+    "case_id": "PHHC010373551998_1_2014-03-04",
+    "file": "C:\\Users\\ramma\\LV\\output\\extracted_v4_1\\PHHC010373551998_1_2014-03-04.json",
+    "outcome": "undetermined",
+    "confidence": 0.0,
+    "source": "hybrid"
+  },
+  {
+    "case_id": "PHHC010375331998_1_2014-05-21",
+    "file": "C:\\Users\\ramma\\LV\\output\\extracted_v4_1\\PHHC010375331998_1_2014-05-21.json",
+    "outcome": "undetermined",
+    "confidence": 0.0,
+    "source": "hybrid"
+  },
+  {
+    "case_id": "PHHC010385001997_1_2010-08-25",
+    "file": "C:\\Users\\ramma\\LV\\output\\extracted_v4_1\\PHHC010385001997_1_2010-08-25.json",
+    "outcome": "undetermined",
+    "confidence": 0.0,
+    "source": "hybrid"
+  },
+  {
+    "case_id": "PHHC010767142006_1_2009-02-10",
+    "file": "C:\\Users\\ramma\\LV\\output\\extracted_v4_1\\PHHC010767142006_1_2009-02-10.json",
+    "outcome": "undetermined",
+    "confidence": 0.0,
+    "source": "hybrid"
+  },
+  {
+    "case_id": "PHHC010780482006_1_2009-02-10",
+    "file": "C:\\Users\\ramma\\LV\\output\\extracted_v4_1\\PHHC010780482006_1_2009-02-10.json",
+    "outcome": "undetermined",
+    "confidence": 0.0,
+    "source": "hybrid"
+  },
+  {
+    "case_id": "PHHC010782742006_1_2009-02-10",
+    "file": "C:\\Users\\ramma\\LV\\output\\extracted_v4_1\\PHHC010782742006_1_2009-02-10.json",
+    "outcome": "undetermined",
+    "confidence": 0.0,
+    "source": "hybrid"
+  },
+  {
+    "case_id": "PHHC010788262006_1_2009-02-10",
+    "file": "C:\\Users\\ramma\\LV\\output\\extracted_v4_1\\PHHC010788262006_1_2009-02-10.json",
+    "outcome": "undetermined",
+    "confidence": 0.0,
+    "source": "hybrid"
+  },
+  {
+    "case_id": "PHHC010800042006_1_2009-02-10",
+    "file": "C:\\Users\\ramma\\LV\\output\\extracted_v4_1\\PHHC010800042006_1_2009-02-10.json",
+    "outcome": "undetermined",
+    "confidence": 0.0,
+    "source": "hybrid"
+  }
+]

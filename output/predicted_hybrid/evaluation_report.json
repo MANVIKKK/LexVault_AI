@@ -1,0 +1,22 @@
+{
+  "summary_metrics": {
+    "rouge1": 1.0,
+    "rougeL": 1.0,
+    "bleu": 1.0,
+    "bert_precision": 1.0,
+    "bert_recall": 1.0,
+    "bert_f1": 1.0
+  },
+  "bias_metrics": {
+    "outcome_distribution": {
+      "undetermined": 170,
+      "dismissed": 151,
+      "allowed": 90
+    },
+    "outcome_diversity_index": 0.0073
+  },
+  "explainability_metrics": {
+    "avg_evidence_overlap": 0.0
+  },
+  "dataset_size": 411
+}

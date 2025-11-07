@@ -1,0 +1,25 @@
+{
+  "case_id": "HCBM020000241977_1_2005-07-19",
+  "court": "IN THE HIGH COURT OF JUDICATURE AT BOMBAY ORDINARY ORIGINAL CIVIL JURISDICTION SUIT NO.691 OF 1977 Popatlal Vadilal Shah .. Plaintiffs Vs. Mahendra Popatlal Shah .. Defendant Mr.Sabir i/b M/s.Nandlal Kothari & Sabir for the plaintiffs Ms.Thakkar i/b M/s.Rustamji & Ginwala for the defendant",
+  "date": "2005-07-19",
+  "judges": [
+    "Unknown"
+  ],
+  "petitioners": [
+    "Unknown"
+  ],
+  "respondents": [
+    "Mr.Sabir i/b M/s.Nandlal Kothari & Sabir for the plaintiffs Ms.Thakkar i/b M/s.Rustamji & Ginwala for the defendant",
+    "P.C.: . The learned counsel for the defendants states that the suit is already been disposed of on 19.6.90. In view thereof",
+    "suit does not survive. Accordingly",
+    "suit be removed from the list of arrears."
+  ],
+  "acts": [
+    "Unknown"
+  ],
+  "judgment_text": "IN THE HIGH COURT OF JUDICATURE AT BOMBAY ORDINARY ORIGINAL CIVIL JURISDICTION SUIT NO.691 OF 1977 Popatlal Vadilal Shah .. Plaintiffs Vs. Mahendra Popatlal Shah .. Defendant Mr.Sabir i/b M/s.Nandlal Kothari & Sabir for the plaintiffs Ms.Thakkar i/b M/s.Rustamji & Ginwala for the defendant\n\nP.C.: . The learned counsel for the defendants states that the suit is already been disposed of on 19.6.90. In view thereof, suit does not survive. Accordingly, suit be removed from the list of arrears.",
+  "outcome": "dismissed",
+  "confidence": 0.999,
+  "source": "rule-based",
+  "reasoning": "Rule matches: {'dismissed': ['disposed of', 'disposed of', 'disposed of']}; selected 'dismissed' with score 4.44."
+}

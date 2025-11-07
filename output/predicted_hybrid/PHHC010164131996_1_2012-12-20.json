@@ -1,0 +1,28 @@
+{
+  "case_id": "PHHC010164131996_1_2012-12-20",
+  "court": "IN THE HIGH COURT OF PUNJAB & HARYANA AT CHANDIGARH CWP No.14900 of 1996 Date of decision:19.12.2012 Babu Lal",
+  "date": "2012-12-20",
+  "judges": [
+    "HON'BLE"
+  ],
+  "petitioners": [
+    "Versus Municipal Corporation",
+    "Faridabad .....Respondent"
+  ],
+  "respondents": [
+    "CORAM : HON'BLE MR.JUSTICE G.S.SANDHAWALIA Present: Mr.Ankur Soni",
+    "Advocate",
+    "for the petitioner",
+    "Mr.Manoj Sood",
+    "for the respondents. **** G.S.Sandhawalia J. (Oral) . Counsel for the petitioner states that he has instructions not to press the present petition. . Accordingly",
+    "the petition is dismissed as not pressed. .12.2012 (G.S.Sandhawalia) sailesh JUDGE"
+  ],
+  "acts": [
+    "Unknown"
+  ],
+  "judgment_text": "IN THE HIGH COURT OF PUNJAB & HARYANA AT CHANDIGARH CWP No.14900 of 1996 Date of decision:19.12.2012 Babu Lal\n\n.....Petitioner Versus Municipal Corporation, Faridabad .....Respondent\n\nCORAM : HON'BLE MR.JUSTICE G.S.SANDHAWALIA Present: Mr.Ankur Soni, Advocate, for the petitioner, Mr.Manoj Sood, Advocate, for the respondents. **** G.S.Sandhawalia J. (Oral) . Counsel for the petitioner states that he has instructions not to press the present petition. . Accordingly, the petition is dismissed as not pressed. .12.2012 (G.S.Sandhawalia) sailesh JUDGE",
+  "outcome": "dismissed",
+  "confidence": 0.999,
+  "source": "rule-based",
+  "reasoning": "Rule matches: {'dismissed': ['dismissed', 'petition is dismissed as', 'petition is dismissed']}; selected 'dismissed' with score 3.80."
+}

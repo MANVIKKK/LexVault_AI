@@ -1,0 +1,23 @@
+{
+  "case_id": "HCBM020010361979_1_2004-12-13",
+  "court": "Madras High Court",
+  "date": "2004-12-13",
+  "judges": [
+    "Unknown"
+  ],
+  "petitioners": [
+    "Unknown"
+  ],
+  "respondents": [
+    ". Mr.atim i/b.M/s.Nandlal Kothari & Sabir for the Plaintiffs. Mr.Dhurat",
+    "1st Asstt. to Court Receiver present. P.C. : P.C. : P.C. : By the present Judge s"
+  ],
+  "acts": [
+    "Unknown"
+  ],
+  "judgment_text": ":1: IN IN IN Dena Bank ..Plaintiffs. Vs. Mrs.Maria David Nathan & Anr. ..Defendants. Mr.atim i/b.M/s.Nandlal Kothari & Sabir for the Plaintiffs. Mr.Dhurat, 1st Asstt. to Court Receiver present. P.C. : P.C. : P.C. : By the present Judge s Order, the Plaintiffs are seeking to dispose of the goods by private treatee. I have perused the valuation report dated 27.4.1991 filed by K.H.Parkar who has opined that the goods are not worth even valuation. 2. In view thereof, I have signed the Judge s Order and place it on record. Judge s Order disposed of accordingly.",
+  "outcome": "dismissed",
+  "confidence": 0.999,
+  "source": "rule-based",
+  "reasoning": "Rule matches: {'dismissed': ['disposed of', 'disposed of', 'disposed of']}; selected 'dismissed' with score 3.26."
+}

@@ -1,0 +1,23 @@
+{
+  "case_id": "PHHC010086901992_1_2011-09-13",
+  "court": "IN THE PUNJAB AND HARYANA HIGH COURT AT CHANDIGARH",
+  "date": "2011-09-13",
+  "judges": [
+    "HON'BLE THE ACTING CHIEF JUSTICE"
+  ],
+  "petitioners": [
+    "Versus State of Haryana",
+    "others ...Respondents CORAM: HON'BLE THE ACTING CHIEF JUSTICE"
+  ],
+  "respondents": [
+    "CORAM: HON'BLE THE ACTING CHIEF JUSTICE"
+  ],
+  "acts": [
+    "Unknown"
+  ],
+  "judgment_text": "IN THE PUNJAB AND HARYANA HIGH COURT AT CHANDIGARH\n\nCWP No. 14017 of 1992\n\nDate of Decision: September 13, 2011 M/s United Oil Mill Machinery & Spares Pvt. Ltd. Petitioner Versus State of Haryana and others ...Respondents CORAM: HON'BLE THE ACTING CHIEF JUSTICE\n\nHON'BLE MR. JUSTICE GURDEV SINGH\n\nPresent: None for the petitioner. Mr. Kamal Sehgal, Addl. A.G., Haryana . To be referred to the Reporters or not? . Whether the judgment should be reported in the Digest? M.M. KUMAR, J. Even on the second call, no one has put in appearance on behalf of the petitioner. Accordingly, the writ petition is dismissed for non- prosecution. (M.M. KUMAR) ACTING CHIEF JUSTICE (GURDEV SINGH) JUDGE September 13, 2011 Atul",
+  "outcome": "dismissed",
+  "confidence": 0.999,
+  "source": "rule-based",
+  "reasoning": "Rule matches: {'dismissed': ['dismissed', 'petition is dismissed']}; selected 'dismissed' with score 2.65."
+}

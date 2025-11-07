@@ -1,0 +1,22 @@
+{
+  "case_id": "HCBM020020501981_1_2008-01-31",
+  "court": "Madras High Court",
+  "date": "2008-01-14",
+  "judges": [
+    "Unknown"
+  ],
+  "petitioners": [
+    "Unknown"
+  ],
+  "respondents": [
+    "Unknown"
+  ],
+  "acts": [
+    "Unknown"
+  ],
+  "judgment_text": "COMPANY PETITION NO.823 OF 1981 OLR/11/08/CC-DII(IV) In the matter of M/s. Suri Papers & Chemicals Pvt.Ltd. Mr.M.P.Rege for Haryana Financial Corporation. Mr.S.Ramakantha, Dy. O.L. P.C. : P.C. : P.C. : 1. Perused the Official Liquidator s report dated 14th January, 2008. The same is granted in terms of prayer clause (a) without prejudice to the rights of the M/s.Haryana Financial Corporation to insist for higher claim amount which is prayed in the Company Application (L) No.88 of 2008. 2. Report disposed off on the above terms.",
+  "outcome": "dismissed",
+  "confidence": 0.999,
+  "source": "rule-based",
+  "reasoning": "Rule matches: {'dismissed': ['disposed of', 'disposed of']}; selected 'dismissed' with score 2.24."
+}

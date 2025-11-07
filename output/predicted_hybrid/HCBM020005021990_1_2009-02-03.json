@@ -1,0 +1,22 @@
+{
+  "case_id": "HCBM020005021990_1_2009-02-03",
+  "court": "IN IN IN THE HIGH COURT OF JUDICATURE AT BOMBAY THE HIGH COURT OF JUDICATURE AT BOMBAY THE HIGH COURT OF JUDICATURE AT BOMBAY",
+  "date": "1990-04-23",
+  "judges": [
+    "Unknown"
+  ],
+  "petitioners": [
+    "Unknown"
+  ],
+  "respondents": [
+    "...."
+  ],
+  "acts": [
+    "Unknown"
+  ],
+  "judgment_text": "- 1 -\n\nIN IN IN THE HIGH COURT OF JUDICATURE AT BOMBAY THE HIGH COURT OF JUDICATURE AT BOMBAY THE HIGH COURT OF JUDICATURE AT BOMBAY\n\nORDINARY ORDINARY ORDINARY ORIGINAL CIVIL JURISDICTION ORIGINAL CIVIL JURISDICTION ORIGINAL CIVIL JURISDICTION jmi\n\nSUMMARY SUIT NO.244 OF 1990.\n\nIndo Nippon Chemical Co.Ltd.\n\n..Plaintiffs.\n\nvs.\n\nPadmanabh A. Mafatlal.\n\n..Defendant.\n\n....\n\nNone for the Plaintiffs.\n\nMr.R.M.Jaykar, i/b.M.V.Jaykar & Co., for the Defendant.\n\n....\n\nCORAM CORAM CORAM: S.J.KATHAWALLA, J. S.J.KATHAWALLA, J. S.J.KATHAWALLA, J.\n\nDATE DATE DATE : 3RD FEBRUARY,2009 : 3RD FEBRUARY,2009 : 3RD FEBRUARY,2009.\n\nP.C.: P.C.: P.C.:\n\n.\n\nThe suit is already disposed of by an order of\n\nthis Court dated 23rd April 1990 [Coram :- Suresh J.].\n\n.\n\nOffice to take note of the fact that the suit is\n\ndisposed of and the suit should not appear on board in\n\nfuture.\n\n[S.J.KATHAWALLA, [S.J.KATHAWALLA, [S.J.KATHAWALLA, J.] J.] J.]",
+  "outcome": "dismissed",
+  "confidence": 0.999,
+  "source": "rule-based",
+  "reasoning": "Rule matches: {'dismissed': ['disposed of', 'disposed of', 'disposed of']}; selected 'dismissed' with score 3.82."
+}

@@ -1,0 +1,25 @@
+{
+  "case_id": "PHHC010001211994_1_2010-08-27",
+  "court": "-1- IN THE HIGH COURT OF PUNJAB AND HARYANA AT CHANDIGARH Date of decision:- 27.8.2010 M/s Chandigarh Packaging Products Limited (in Liquidation)",
+  "date": "2010-08-27",
+  "judges": [
+    "HON'BLE"
+  ],
+  "petitioners": [
+    "Unknown"
+  ],
+  "respondents": [
+    "CORAM:- HON'BLE MR. JUSTICE HEMANT GUPTA Present: - Mr. Sanjiv Ghai",
+    "Advocate for the appellant Mr. Kamal Sehgal",
+    "Advocate for respondent No. 5. HEMANT GUPTA",
+    "J (ORAL) This application has been filed by the Official Liquidator to settle the claim of Central Excise Department. M/s Chandigarh Packaging Products Limited was"
+  ],
+  "acts": [
+    "Unknown"
+  ],
+  "judgment_text": "-1- IN THE HIGH COURT OF PUNJAB AND HARYANA AT CHANDIGARH Date of decision:- 27.8.2010 M/s Chandigarh Packaging Products Limited (in Liquidation)\n\n......appellant vs. Punjab National Bank and others ......respondents CORAM:- HON'BLE MR. JUSTICE HEMANT GUPTA Present: - Mr. Sanjiv Ghai, Advocate for the appellant Mr. Kamal Sehgal, Advocate for respondent No. 5. HEMANT GUPTA, J (ORAL) This application has been filed by the Official Liquidator to settle the claim of Central Excise Department. M/s Chandigarh Packaging Products Limited was ordered to be wound up vide order dated 5.1.1996 and the Official Liquidator attached to this Court was appointed as its Liquidator. The sale of the assets of the Company in Liquidation was confirmed on 12.2.2004. The possession of the assets of the Company in Liquidation were handed over to the auction purchaser namely M/s Devki Polymers (P) Ltd., on 21.2.2004. Thereafter, the Official Liquidator invited the claim from the creditors/workmen through notice dated 2.7.2004. The secured creditors submitted their respective claims and in terms of minutes dated .2.2005, the amount was determined as payable to ICICI, IFCI, Panjab National Bank and Workmen. The said distribution of the dividend among workmen and secured creditors was approved on 24.3.2005. The Official Liquidator has reimbursed the amount to IFCI and ICICI on account of watch and ward expenses. -2- The Union of India through Assistant Commissioner, Central Excise Division, Ropar sought release of the government dues by filing CP No. 47 of claiming a sum of Rs. 4,44,993/-. The said claim of the Central Excise Department was found to be a sum of Rs. 1,34,852/- for the period from 6.1.1995 till the date of winding up i.e. 5.1.1996. It is the said amount which has been accepted by the Official Liquidator. The said amount to the aforesaid extent is available with the Official Liquidator for disbursement as well. In view of the said fact, the present application is allowed. Official Liquidator is permitted to release a sum of Rs. 1,34,852/- to Assistant Commissioner, Central Excise Department, Ropar. C.A. Stands disposed of. (HEMANT GUPTA) JUDGE .8.2010 preeti",
+  "outcome": "dismissed",
+  "confidence": 0.85,
+  "source": "rule-based",
+  "reasoning": "Rule matches: {'allowed': ['allowed', 'allow'], 'dismissed': ['disposed of', 'disposed of', 'disposed of']}; selected 'dismissed' with score 3.13."
+}

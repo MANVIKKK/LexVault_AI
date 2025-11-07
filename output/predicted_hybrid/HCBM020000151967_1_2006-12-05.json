@@ -1,0 +1,22 @@
+{
+  "case_id": "HCBM020000151967_1_2006-12-05",
+  "court": "IN IN IN THE HIGH COURT OF JUDICATURE AT BOMBAY THE HIGH COURT OF JUDICATURE AT BOMBAY THE HIGH COURT OF JUDICATURE AT BOMBAY",
+  "date": "2006-12-05",
+  "judges": [
+    "Unknown"
+  ],
+  "petitioners": [
+    "Unknown"
+  ],
+  "respondents": [
+    "Unknown"
+  ],
+  "acts": [
+    "Unknown"
+  ],
+  "judgment_text": ":1:\n\nIN IN IN THE HIGH COURT OF JUDICATURE AT BOMBAY THE HIGH COURT OF JUDICATURE AT BOMBAY THE HIGH COURT OF JUDICATURE AT BOMBAY\n\nIN IN IN ITS INSOLVENCY JURISDICTION ITS INSOLVENCY JURISDICTION ITS INSOLVENCY JURISDICTION\n\nINSOLVENCY INSOLVENCY INSOLVENCY NO. 34 OF 1967 NO. 34 OF 1967 NO. 34 OF 1967\n\nRe: Akbar Humayun Abdulali\n\n...Debtors.\n\nEx-parte :\n\nTyabji Holding & Investing Company\n\nPvt. Ltd.\n\n...Petitioning Creditors.\n\n....\n\nNone present.\n\n.....\n\nCORAM CORAM CORAM : DR. D.Y. CHANDRACHUD,J. : DR. D.Y. CHANDRACHUD,J. : DR. D.Y. CHANDRACHUD,J.\n\nth th th DECEMBER 2006. DECEMBER 2006. DECEMBER 2006.\n\nP.C. P.C. P.C. : : :\n\n.\n\nThe Petitioning Creditors and their Advocate are\n\nabsent. The Petition is dismissed for want of\n\nprosecution.\n\n-----",
+  "outcome": "dismissed",
+  "confidence": 0.999,
+  "source": "rule-based",
+  "reasoning": "Rule matches: {'dismissed': ['dismissed', 'petition is dismissed']}; selected 'dismissed' with score 2.25."
+}
