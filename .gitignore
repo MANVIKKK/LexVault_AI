@@ -1,0 +1,21 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Virtual environments
+.venv/
+env/
+venv/
+
+# Output and intermediate data
+output/
+data/
+*.json
+*.pkl
+*.joblib
+*.csv
+
+# IDE and OS files
+.vscode/
+.DS_Store
+Thumbs.db

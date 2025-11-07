@@ -1,0 +1,48 @@
+# ==========================================================
+# ⚖️ LexVault — Legal Judgment Intelligence
+# ==========================================================
+# Curated dependencies for the end-to-end pipeline:
+# 1. Data extraction and preprocessing
+# 2. Entity and outcome prediction
+# 3. Semantic similarity computation
+# 4. Summarization
+# 5. Streamlit dashboard visualization
+# ==========================================================
+
+# ---------- Core Python utilities ----------
+numpy>=1.24.0
+pandas>=2.1.0
+regex>=2023.8.8
+python-dateutil>=2.9.0
+joblib>=1.4.2
+PyYAML>=6.0.2
+tqdm>=4.66.1
+pathlib
+
+# ---------- Machine Learning / NLP ----------
+scikit-learn>=1.5.0
+nltk>=3.8.1
+sentence-transformers>=3.0.1
+transformers>=4.44.2
+torch>=2.3.0
+evaluate>=0.4.2
+
+# ---------- Semantic similarity / Vector indexing ----------
+faiss-cpu>=1.8.0
+
+# ---------- Visualization / UI ----------
+matplotlib>=3.9.0
+seaborn>=0.13.2
+streamlit>=1.37.0
+plotly>=5.22.0
+
+# ---------- PDF handling ----------
+PyPDF2>=3.0.0
+pdfminer.six>=20221105
+
+# ---------- Web / API deployment (optional) ----------
+flask>=3.0.3
+flask-cors>=4.0.0
+
+# ---------- Logging / Debug ----------
+rich>=13.7.0
